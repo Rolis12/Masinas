@@ -1,7 +1,9 @@
-ID Vards Uzvards Vecums Tel.nr. Ceka nr. 
-1  Igors Lietins 106 21157508 #00284328   
-2  Igors Cakars 22 24143249 #00311256   
-3  Igors Abolins 72 22598651 #00320364   
-4  Igors Biezins 84 21377090 #00343827   
-5  Edgars Berzins 89 23689928 #00367488   
-6  Janis Lapa 106 24026231 #00248688   
+ID Vards Uzvards Vecums Tel.nr. Ceka nr. Produkti 
+1  Edgars Lietins 24 22301057 #00247005  
+2  Janis Alpa 20 22344518 #00695871  
+3  Igors Lapa 101 21176615 #00398772  
+4  Igors Biezins 80 23276801 #00462330  
+5  Kristaps Cakars 55 23077217 #00655875  
+6  Rainers Abolins 99 22559348 #00791208  
+7  Edgars Alpa 79 22785959 #00293238  
+8  Peters Lapa 107 22030787 #00546777  
