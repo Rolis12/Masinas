@@ -13,8 +13,8 @@ int main()
 
     fstream file;
     string word, filename;
-    string vrdi;
-    string uzvrdi;
+    string vrdins;
+    string uzvrdins;
     string vardi[8];
     string uzvardi[8];
     string produkti[8];
@@ -32,9 +32,9 @@ int main()
     for(int i = 0; i < 8; i++)
         {
             cout <<"Personas:" << i << endl;
-            file >> vrdi;
-            cout << vrdi << endl;
-            vardi[i] = vrdi;
+            file >> vrdins;
+            cout << vrdins << endl;
+            vardi[i] = vrdins;
         }
     cout << endl;
 
@@ -54,9 +54,9 @@ int main()
     for(int j = 0; j < 8; j++)
         {
             cout <<"Personas:" << j << endl;
-            file >> uzvrdi;
-            cout << uzvrdi << endl;
-            uzvardi[j] = uzvrdi;
+            file >> uzvrdins;
+            cout << uzvrdins << endl;
+            uzvardi[j] = uzvrdins;
         }
     cout << endl;
 
@@ -67,7 +67,7 @@ int main()
     cout << endl;
     file.close();
 
-    cout << "Ievadiet 2D masinu izmerus, robeza no 3 lidz 9" << endl;
+    cout << "Ievadiet 2D masinu izmerus, pirmo no 1 lidz 6000, otro rakstam 7 " << endl;
     cin >> a;
     cin >> b;
 
